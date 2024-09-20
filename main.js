@@ -43,4 +43,4 @@ function main(){
 	}, 2000);
 }
 
-window.onload = main();
+//window.onload = main();

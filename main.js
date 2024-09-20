@@ -40,7 +40,7 @@ function menu(){
 function main(){
 	setTimeout(function(){
 		display_title();
-	}, 5000);
+	},2000);
 }
 
 window.onload = main();

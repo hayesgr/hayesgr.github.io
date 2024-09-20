@@ -38,7 +38,9 @@ function menu(){
 
 
 function main(){
-	display_title();
+	setTimeout(function(){
+		display_title();
+	}, 1000);
 }
 
 window.onload = main();
